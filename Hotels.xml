@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+	<Hotel id="h1" brand="Westin">
+		<Name>Westin Tempe</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>480-937-8461</Phone>
+		<Address>
+			<Number>11</Number><Street>E 7th St</Street>
+			<City>Tempe</City><State>AZ</State><Zip>85281</Zip>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+		<Rating>4.2</Rating>
+	</Hotel>
+
+	<Hotel id="h2">
+		<Name>AC Hotel Phoenix Tempe/Downtown</Name>
+		<Phone>480-642-6140</Phone>
+		<Address>
+			<Number>100</Number><Street>E Rio Salado Pkwy</Street>
+			<City>Tempe</City><State>AZ</State><Zip>85281</Zip>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+	</Hotel>
+
+	<Hotel id="h3">
+		<Name>Paris Las Vegas</Name>
+		<Phone>877-796-2096</Phone>
+		<Address>
+			<Number>3655</Number><Street>S Las Vegas Blvd</Street>
+			<City>Las Vegas</City><State>NV</State><Zip>89109</Zip>
+			<NearestAirport>Harry Reid</NearestAirport>
+		</Address>
+		<Rating>4.3</Rating>
+	</Hotel>
+
+	<Hotel id="h4" brand="Hilton">
+		<Name>DoubleTree by Hilton New York Midtown Fifth Ave</Name>
+		<Phone>212-262-3200</Phone>
+		<Address>
+			<Number>25</Number><Street>W 51st St</Street>
+			<City>New York</City><State>NY</State><Zip>10019</Zip>
+			<NearestAirport>LaGuardia</NearestAirport>
+		</Address>
+		<Rating>3.2</Rating>
+	</Hotel>
+
+	<Hotel id="h5" brand="Sheraton">
+		<Name>Sheraton Maui Resort and Spa</Name>
+		<Phone>808-661-0031</Phone>
+		<Address>
+			<Number>2605</Number><Street>Kannapali Pkwy</Street>
+			<City>Lahaina</City><State>HI</State><Zip>96761</Zip>
+			<NearestAirport>Kahului</NearestAirport>
+		</Address>
+		<Rating>4.3</Rating>
+	</Hotel>
+
+	<Hotel id="h6">
+		<Name>Fairmont San Francisco</Name>
+		<Phone>415-772-5000</Phone>
+		<Address>
+			<Number>950</Number><Street>Mason Street Atop Mob Hill</Street>
+			<City>San Francisco</City><State>CA</State><Zip>94108</Zip>
+			<NearestAirport>San Francisco International</NearestAirport>
+		</Address>
+		<Rating>5</Rating>
+	</Hotel>
+
+	<Hotel id="h7" brand="Hilton">
+		<Name>Hilton Garden Inn Seattle Bellevue Downtown</Name>
+		<Phone>425-454-0070</Phone>
+		<Address>
+			<Number>10777</Number><Street>NE 10th St</Street>
+			<City>Bellevue</City><State>WA</State><Zip>98004</Zip>
+			<NearestAirport>Seattle-Tacoma International Airport</NearestAirport>
+		</Address>
+		<Rating>4.2</Rating>
+	</Hotel>
+	
+	<Hotel id="h8" brand="Hyatt">
+		<Name>Hyatt Place Pasadena</Name>
+		<Phone>626-788-9108</Phone>
+		<Address>
+			<Number>399</Number><Street>E Green St</Street>
+			<City>Pasadena</City><State>CA</State><Zip>91101</Zip>
+			<NearestAirport>Hollywood Burbank Airport</NearestAirport>
+		</Address>
+		<Rating>4.2</Rating>
+	</Hotel>
+
+	<Hotel id="h9" brand="Hilton">
+		<Name>Hilton Tucson East</Name>
+		<Phone>520-721-5600</Phone>
+		<Address>
+			<Number>7600</Number><Street>E Broadway Blvd</Street>
+			<City>Tucson</City><State>AZ</State><Zip>85710</Zip>
+			<NearestAirport>Tucson International Airport</NearestAirport>
+		</Address>
+		<Rating>4.3</Rating>
+	</Hotel>
+
+	<Hotel id="h10" brand="Marriott">
+		<Name>Marriott Stanton South Beach</Name>
+		<Phone>305-536-7700</Phone>
+		<Address>
+			<Number>161</Number><Street>Ocean Dr</Street>
+			<City>Miami</City><State>FL</State><Zip>33139</Zip>
+			<NearestAirport>Miami International Airport</NearestAirport>
+		</Address>
+		<Rating>4.2</Rating>
+	</Hotel>
+
+	<Hotel id="h11" brand="Holiday Inn">
+		<Name>Holiday Inn Express and Suites Silt-Rifle</Name>
+		<Phone>970-876-5100</Phone>
+		<Address>
+			<Number>1535</Number><Street>River Frontage Road</Street>
+			<City>Stilt</City><State>CO</State><Zip>81652</Zip>
+			<NearestAirport>Garfield County Regional Airport</NearestAirport>
+		</Address>
+		<Rating>4.7</Rating>
+	</Hotel>
+	
+
+
+
+</Hotels>
