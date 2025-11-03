@@ -113,20 +113,10 @@
 		<Rating>4.2</Rating>
 	</Hotel>
 
-	<Hotel id="h11" brand="Holiday Inn">
-		<Name>Holiday Inn Express and Suites Silt-Rifle</Name>
-		<Phone>970-876-5100</Phone>
-		<Address>
-			<Number>1535</Number><Street>River Frontage Road</Street>
-			<City>Stilt</City><State>CO</State><Zip>81652</Zip>
-			<NearestAirport>Garfield County Regional Airport</NearestAirport>
-		</Address>
-		<Rating>4.7</Rating>
-	</Hotel>
 	
 
 
 
-
 </Hotels>
+
 
