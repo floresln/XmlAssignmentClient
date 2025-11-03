@@ -5,7 +5,6 @@
 
 	<Hotel id="h1" brand="Westin">
 		<Name>Westin Tempe</Name>
-		<Phone>480-968-8885</Phone>
 		<Phone>480-937-8461</Phone>
 		<Address>
 			<Number>11</Number><Street>E 7th St</Street>
@@ -124,6 +123,7 @@
 		<Rating>4.7</Rating>
 	</Hotel>
 	
+
 
 
 
